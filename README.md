@@ -25,5 +25,4 @@ Hi there! I'm **Mayank Matwa**, a passionate Software Development Engineer curre
 
 📫 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mayank-matwa/)  
-[📧](mailto:mayankmatwa378@gmail.com)
 
